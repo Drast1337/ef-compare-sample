@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreCompareSample", "EfCoreCompareSample.csproj", "{EEA58CF1-3E1D-4213-A2A4-8B82EC05421A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEA58CF1-3E1D-4213-A2A4-8B82EC05421A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA58CF1-3E1D-4213-A2A4-8B82EC05421A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA58CF1-3E1D-4213-A2A4-8B82EC05421A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA58CF1-3E1D-4213-A2A4-8B82EC05421A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A88700C-40D4-4C65-9DD1-DFBE7FDAE25F}
+	EndGlobalSection
+EndGlobal
